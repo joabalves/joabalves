@@ -7,7 +7,7 @@
 
 - 👯 Também estou compartilhando conhecimento através de consultorias e treinamentos in company [Consultoria](https://wa.me/5583988541049)
 
-- 💬 Me pergunte sobre **SQL, Power BI, Looker Studio, Google Data Studio, Excel**
+- 💬 Me pergunte sobre **SQL, Power BI, Looker Studio (Google Data Studio), QlikView/Sense, Tableau, Excel**
 
 - 📫 Você pode manter contato através do e-mail **joabti@gmail.com**
 
